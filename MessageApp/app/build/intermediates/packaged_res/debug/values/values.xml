@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent">#EC4899</color>
+    <color name="accent_blue">#3B82F6</color>
+    <color name="accent_cyan">#06B6D4</color>
+    <color name="accent_pink">#EC4899</color>
+    <color name="accent_purple">#8B5CF6</color>
+    <color name="background">#0D0D12</color>
+    <color name="background_card">#1E1E2D</color>
+    <color name="background_elevated">#252536</color>
+    <color name="background_primary">#0D0D12</color>
+    <color name="background_secondary">#15151E</color>
+    <color name="error">#EF4444</color>
+    <color name="input_background">#1E1E2D</color>
+    <color name="input_border">#374151</color>
+    <color name="input_border_focused">#8B5CF6</color>
+    <color name="message_received">#252536</color>
+    <color name="message_sent_end">#EC4899</color>
+    <color name="message_sent_start">#8B5CF6</color>
+    <color name="online">#22C55E</color>
+    <color name="overlay_dark">#80000000</color>
+    <color name="primary">#8B5CF6</color>
+    <color name="primary_dark">#7C3AED</color>
+    <color name="primary_light">#A78BFA</color>
+    <color name="success">#10B981</color>
+    <color name="surface">#1E1E2D</color>
+    <color name="text_on_accent">#FFFFFF</color>
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#9CA3AF</color>
+    <color name="text_tertiary">#6B7280</color>
+    <color name="warning">#F59E0B</color>
+    <string name="app_name">MessageApp</string>
+    <style name="Theme.MessageApp" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryVariant">@color/primary_dark</item>
+        <item name="colorOnPrimary">@color/text_on_accent</item>
+        <item name="colorSecondary">@color/accent</item>
+        <item name="colorSecondaryVariant">@color/accent_pink</item>
+        <item name="colorOnSecondary">@color/text_on_accent</item>
+        <item name="android:colorBackground">@color/background_primary</item>
+        <item name="android:windowBackground">@color/background_primary</item>
+        <item name="android:statusBarColor">@color/background_primary</item>
+        <item name="android:navigationBarColor">@color/background_primary</item>
+        <item name="android:textColorPrimary">@color/text_primary</item>
+        <item name="android:textColorSecondary">@color/text_secondary</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+    <style name="Theme.MessageApp.Splash" parent="Theme.MessageApp">
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:windowBackground">@drawable/bg_gradient_splash</item>
+    </style>
+</resources>

@@ -1,0 +1,35 @@
+com.messageapp-lifecycle-livedata-2.6.1-0 C:\Users\computer genius\.gradle\caches\8.10\transforms\06e71c206f48ca06e174301196e4124b\transformed\lifecycle-livedata-2.6.1\res
+com.messageapp-emoji2-views-helper-1.2.0-1 C:\Users\computer genius\.gradle\caches\8.10\transforms\24ebae2007f2d6b79d7215593f3788c3\transformed\emoji2-views-helper-1.2.0\res
+com.messageapp-material-1.11.0-2 C:\Users\computer genius\.gradle\caches\8.10\transforms\28fdb009c87f85c4401e81ab0dc9c24e\transformed\material-1.11.0\res
+com.messageapp-appcompat-resources-1.6.1-3 C:\Users\computer genius\.gradle\caches\8.10\transforms\296de40ffe267e29b34ebdfb0e0166ee\transformed\appcompat-resources-1.6.1\res
+com.messageapp-core-1.9.0-4 C:\Users\computer genius\.gradle\caches\8.10\transforms\448229d016c994b93f2927e1c0a87521\transformed\core-1.9.0\res
+com.messageapp-activity-1.8.0-5 C:\Users\computer genius\.gradle\caches\8.10\transforms\4c3a2bd67bcef70b4c3d1fbc442fd1ee\transformed\activity-1.8.0\res
+com.messageapp-startup-runtime-1.1.1-6 C:\Users\computer genius\.gradle\caches\8.10\transforms\4f06d4d153eaacdcc34b7c87325579e8\transformed\startup-runtime-1.1.1\res
+com.messageapp-constraintlayout-2.1.4-7 C:\Users\computer genius\.gradle\caches\8.10\transforms\53ac94a1f5b6af5fa140e39232095b5e\transformed\constraintlayout-2.1.4\res
+com.messageapp-viewpager2-1.1.0-beta02-8 C:\Users\computer genius\.gradle\caches\8.10\transforms\5735796cee7755b33ed83057872e31bd\transformed\viewpager2-1.1.0-beta02\res
+com.messageapp-cardview-1.0.0-9 C:\Users\computer genius\.gradle\caches\8.10\transforms\611f9ab9ed9992c24f9ce47fefe8e214\transformed\cardview-1.0.0\res
+com.messageapp-appcompat-1.6.1-10 C:\Users\computer genius\.gradle\caches\8.10\transforms\6d4ff45b075ebdb71f4ae7c5c80906fb\transformed\appcompat-1.6.1\res
+com.messageapp-customview-poolingcontainer-1.0.0-11 C:\Users\computer genius\.gradle\caches\8.10\transforms\70318bb0fb1eadf5db5602fbfdbf8d7e\transformed\customview-poolingcontainer-1.0.0\res
+com.messageapp-profileinstaller-1.3.0-12 C:\Users\computer genius\.gradle\caches\8.10\transforms\716c8a930270ef539c69fe24ac687562\transformed\profileinstaller-1.3.0\res
+com.messageapp-annotation-experimental-1.3.0-13 C:\Users\computer genius\.gradle\caches\8.10\transforms\79ac86d721185eae4ec5c5bc3c914ce0\transformed\annotation-experimental-1.3.0\res
+com.messageapp-recyclerview-1.3.2-14 C:\Users\computer genius\.gradle\caches\8.10\transforms\7bd4bc684cf2b78206a28edf5d95e3ed\transformed\recyclerview-1.3.2\res
+com.messageapp-savedstate-1.2.1-15 C:\Users\computer genius\.gradle\caches\8.10\transforms\937992584348c7bd14b0fd6b1f728a41\transformed\savedstate-1.2.1\res
+com.messageapp-lifecycle-viewmodel-2.6.1-16 C:\Users\computer genius\.gradle\caches\8.10\transforms\94a2c019df44f855978612ebd3c93704\transformed\lifecycle-viewmodel-2.6.1\res
+com.messageapp-fragment-1.3.6-17 C:\Users\computer genius\.gradle\caches\8.10\transforms\964f4167fdd5ac005a01c839b7fe7863\transformed\fragment-1.3.6\res
+com.messageapp-core-ktx-1.9.0-18 C:\Users\computer genius\.gradle\caches\8.10\transforms\a11cbaddbbf695f794a37ce1892d9fce\transformed\core-ktx-1.9.0\res
+com.messageapp-drawerlayout-1.1.1-19 C:\Users\computer genius\.gradle\caches\8.10\transforms\a7bc159150110425535e9c7a8ab08cf2\transformed\drawerlayout-1.1.1\res
+com.messageapp-coordinatorlayout-1.1.0-20 C:\Users\computer genius\.gradle\caches\8.10\transforms\a95117d4db32b6c0668d7aa39e49ee4e\transformed\coordinatorlayout-1.1.0\res
+com.messageapp-emoji2-1.2.0-21 C:\Users\computer genius\.gradle\caches\8.10\transforms\ad91497b3ab0d5b47f7cb681075675c5\transformed\emoji2-1.2.0\res
+com.messageapp-core-runtime-2.2.0-22 C:\Users\computer genius\.gradle\caches\8.10\transforms\bd38d9066ffa3c6bd49dace734bb92c7\transformed\core-runtime-2.2.0\res
+com.messageapp-lifecycle-runtime-2.6.1-23 C:\Users\computer genius\.gradle\caches\8.10\transforms\c11833e91bfc1ab25980616dd59534fd\transformed\lifecycle-runtime-2.6.1\res
+com.messageapp-lifecycle-livedata-core-2.6.1-24 C:\Users\computer genius\.gradle\caches\8.10\transforms\cc56b80d3f5a5eb0ec70f869bb4c0ba7\transformed\lifecycle-livedata-core-2.6.1\res
+com.messageapp-lifecycle-process-2.6.1-25 C:\Users\computer genius\.gradle\caches\8.10\transforms\de644b20a4ee564abfa6ddd02a944db5\transformed\lifecycle-process-2.6.1\res
+com.messageapp-transition-1.2.0-26 C:\Users\computer genius\.gradle\caches\8.10\transforms\e905b17b3ef96780770c774110c913f5\transformed\transition-1.2.0\res
+com.messageapp-lifecycle-viewmodel-savedstate-2.6.1-27 C:\Users\computer genius\.gradle\caches\8.10\transforms\fcd66269472602792c04bfd778770a53\transformed\lifecycle-viewmodel-savedstate-2.6.1\res
+com.messageapp-pngs-28 C:\Users\computer genius\ANDROID _PROJECT\MessageApp\app\build\generated\res\pngs\debug
+com.messageapp-resValues-29 C:\Users\computer genius\ANDROID _PROJECT\MessageApp\app\build\generated\res\resValues\debug
+com.messageapp-packageDebugResources-30 C:\Users\computer genius\ANDROID _PROJECT\MessageApp\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.messageapp-packageDebugResources-31 C:\Users\computer genius\ANDROID _PROJECT\MessageApp\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.messageapp-merged_res-32 C:\Users\computer genius\ANDROID _PROJECT\MessageApp\app\build\intermediates\merged_res\debug
+com.messageapp-debug-33 C:\Users\computer genius\ANDROID _PROJECT\MessageApp\app\src\debug\res
+com.messageapp-main-34 C:\Users\computer genius\ANDROID _PROJECT\MessageApp\app\src\main\res
